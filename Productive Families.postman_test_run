@@ -1,0 +1,887 @@
+{
+	"id": "794ef476-59e6-4e21-a420-2f5541707ea1",
+	"name": "Productive Families",
+	"timestamp": "2024-09-23T01:41:17.727Z",
+	"collection_id": "37971312-a74bd3f9-aa53-4ab6-a922-a1811c4be6af",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "error",
+	"startedAt": "2024-09-23T01:39:51.274Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "600f2de5-73b9-4ad0-9e92-8e49a743afde",
+			"name": "Check Token",
+			"url": "https://productivefamiliesservices.alefsoftware.com/admin/auth/check-token",
+			"time": 127,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				450,
+				118,
+				109,
+				113,
+				106,
+				111,
+				234,
+				156,
+				131,
+				128,
+				138,
+				182,
+				192,
+				122,
+				113,
+				127
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "da272dc2-f995-4a06-873b-cd5161ef288e",
+			"name": "Login",
+			"url": "https://productivefamiliesservices.alefsoftware.com/admin/auth/login",
+			"time": 165,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				189,
+				113,
+				120,
+				121,
+				111,
+				122,
+				181,
+				135,
+				122,
+				157,
+				146,
+				133,
+				123,
+				236,
+				110,
+				165
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "12c3f15f-d0dd-4ba1-ae07-bc558d994945",
+			"name": "Forgot Password",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/auth/forgot-password",
+			"time": 137,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				109,
+				112,
+				129,
+				122,
+				114,
+				121,
+				156,
+				120,
+				147,
+				183,
+				147,
+				135,
+				119,
+				119,
+				123,
+				137
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "0821e4a9-a3fe-4d5d-a51d-3bf928adf74e",
+			"name": "Logout",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/auth/logout",
+			"time": 117,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				108,
+				108,
+				117,
+				132,
+				112,
+				118,
+				116,
+				113,
+				137,
+				132,
+				135,
+				221,
+				123,
+				122,
+				111,
+				117
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "5391a5a6-4f65-41de-b8dd-cf1f0ceae743",
+			"name": "List all Roles",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/roles",
+			"time": 133,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				114,
+				107,
+				120,
+				106,
+				136,
+				113,
+				114,
+				140,
+				140,
+				135,
+				114,
+				190,
+				210,
+				148,
+				127,
+				133
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "dcb1450f-41f5-405d-89b0-561fbc0ca395",
+			"name": "View Role",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/roles/view/12",
+			"time": 116,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				138,
+				123,
+				108,
+				121,
+				118,
+				137,
+				114,
+				130,
+				142,
+				129,
+				127,
+				151,
+				125,
+				146,
+				122,
+				116
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "d21bdbdc-7b7f-4c10-9397-20cd6c19cb8e",
+			"name": "Delete Role",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/roles/delete/12",
+			"time": 120,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				125,
+				122,
+				123,
+				128,
+				129,
+				123,
+				119,
+				118,
+				200,
+				148,
+				131,
+				135,
+				119,
+				110,
+				116,
+				120
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "fd9b87b9-b0f3-42cd-870a-7c99285d8a29",
+			"name": "Edit Role",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/roles/edit/12",
+			"time": 138,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				114,
+				131,
+				121,
+				124,
+				106,
+				123,
+				105,
+				113,
+				137,
+				139,
+				124,
+				125,
+				124,
+				129,
+				136,
+				138
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "f18820b6-2107-43d9-b3f1-501b71a0d3fb",
+			"name": "Create Role",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/roles/create",
+			"time": 114,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				109,
+				142,
+				116,
+				114,
+				111,
+				119,
+				118,
+				124,
+				142,
+				118,
+				121,
+				121,
+				126,
+				212,
+				157,
+				114
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "f20a8111-b379-45e0-a4e0-a8ef65f8e32d",
+			"name": "List all Permissions",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/roles/permissions",
+			"time": 122,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				123,
+				126,
+				105,
+				127,
+				293,
+				131,
+				277,
+				120,
+				136,
+				153,
+				164,
+				113,
+				118,
+				130,
+				133,
+				122
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "bd89cbdb-1f65-46f8-be0c-b778e2503608",
+			"name": "Assign Permissions to Role",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/roles/permissions/12",
+			"time": 109,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				108,
+				106,
+				111,
+				157,
+				187,
+				115,
+				125,
+				126,
+				132,
+				122,
+				119,
+				133,
+				139,
+				127,
+				147,
+				109
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "a0614b38-d19f-4423-8228-9d2f9267de65",
+			"name": "Create",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/categories/create",
+			"time": 107,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				115,
+				120,
+				122,
+				124,
+				125,
+				132,
+				202,
+				117,
+				133,
+				128,
+				163,
+				161,
+				131,
+				106,
+				162,
+				107
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "656fc336-b9bd-4391-9692-72a61ac9fe9c",
+			"name": "Delete",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/categories/delete/70",
+			"time": 129,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				141,
+				117,
+				125,
+				118,
+				117,
+				129,
+				118,
+				143,
+				147,
+				201,
+				145,
+				125,
+				121,
+				182,
+				136,
+				129
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "3ed8a04e-62d5-4dce-9f35-a19afa991065",
+			"name": "Edit",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/categories/edit/71",
+			"time": 260,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				117,
+				108,
+				109,
+				105,
+				119,
+				114,
+				123,
+				141,
+				118,
+				122,
+				134,
+				125,
+				140,
+				144,
+				126,
+				260
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "4ba12481-9160-42b3-a023-e6ed1565b548",
+			"name": "Activate",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/categories/publish/1/71",
+			"time": 136,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				154,
+				131,
+				115,
+				116,
+				125,
+				118,
+				142,
+				149,
+				124,
+				174,
+				152,
+				124,
+				128,
+				127,
+				136
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "9fe4ac16-3ec1-4ed3-bbce-fb0a3f6443df",
+			"name": "List",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/categories?page=1",
+			"time": 154,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				117,
+				113,
+				125,
+				127,
+				126,
+				136,
+				124,
+				116,
+				141,
+				135,
+				156,
+				114,
+				137,
+				110,
+				154
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "97360aed-cd50-4c19-8aa7-d3c894019484",
+			"name": "View by id",
+			"url": "http://productivefamiliesservices.alefsoftware.com/admin/categories/view/71",
+			"time": 126,
+			"responseCode": {
+				"code": 521
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				107,
+				110,
+				120,
+				124,
+				132,
+				246,
+				134,
+				139,
+				121,
+				126,
+				123,
+				140,
+				138,
+				121,
+				126
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 16,
+	"totalTime": 36076,
+	"collection": {
+		"requests": [
+			{
+				"id": "600f2de5-73b9-4ad0-9e92-8e49a743afde",
+				"method": "GET"
+			},
+			{
+				"id": "da272dc2-f995-4a06-873b-cd5161ef288e",
+				"method": "POST"
+			},
+			{
+				"id": "12c3f15f-d0dd-4ba1-ae07-bc558d994945",
+				"method": "POST"
+			},
+			{
+				"id": "0821e4a9-a3fe-4d5d-a51d-3bf928adf74e",
+				"method": "GET"
+			},
+			{
+				"id": "5391a5a6-4f65-41de-b8dd-cf1f0ceae743",
+				"method": "GET"
+			},
+			{
+				"id": "dcb1450f-41f5-405d-89b0-561fbc0ca395",
+				"method": "GET"
+			},
+			{
+				"id": "d21bdbdc-7b7f-4c10-9397-20cd6c19cb8e",
+				"method": "GET"
+			},
+			{
+				"id": "fd9b87b9-b0f3-42cd-870a-7c99285d8a29",
+				"method": "POST"
+			},
+			{
+				"id": "f18820b6-2107-43d9-b3f1-501b71a0d3fb",
+				"method": "POST"
+			},
+			{
+				"id": "f20a8111-b379-45e0-a4e0-a8ef65f8e32d",
+				"method": "GET"
+			},
+			{
+				"id": "bd89cbdb-1f65-46f8-be0c-b778e2503608",
+				"method": "POST"
+			},
+			{
+				"id": "a0614b38-d19f-4423-8228-9d2f9267de65",
+				"method": "POST"
+			},
+			{
+				"id": "656fc336-b9bd-4391-9692-72a61ac9fe9c",
+				"method": "GET"
+			},
+			{
+				"id": "3ed8a04e-62d5-4dce-9f35-a19afa991065",
+				"method": "POST"
+			},
+			{
+				"id": "4ba12481-9160-42b3-a023-e6ed1565b548",
+				"method": "GET"
+			},
+			{
+				"id": "9fe4ac16-3ec1-4ed3-bbce-fb0a3f6443df",
+				"method": "GET"
+			},
+			{
+				"id": "97360aed-cd50-4c19-8aa7-d3c894019484",
+				"method": "GET"
+			},
+			{
+				"id": "461ea997-d42f-4e63-9cf3-fad3a5695638",
+				"method": "GET"
+			}
+		]
+	}
+}
