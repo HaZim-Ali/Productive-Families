@@ -114,3 +114,13 @@ json
 		}
 
 ```
+
+**Author**
+
+Developed by: **Eng. Hazim Aly**
+
+For inquiries or collaboration, feel free to reach out:
+
+*   **Email:** hazimaly5@gmail.com
+*   **LinkedIn:** [www.linkedin.com/in/hazim-aly-161476325](www.linkedin.com/in/hazim-aly-161476325)
+*   **GitHub:** [https://github.com/HaZim-Ali](https://github.com/HaZim-Ali)
